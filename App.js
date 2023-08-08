@@ -16,7 +16,7 @@ const SplashScreen = () => {
         <Image
               style={splash.image}
               source={require('./assets/images/Brainiac.png')}/>
-         <Text style={splash.txt}> Brainiac </Text>     
+         <Text style={splash.txt}> Test</Text>     
       </View>
   );
 }
